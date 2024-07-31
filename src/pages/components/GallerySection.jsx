@@ -9,7 +9,7 @@ const GallerySection = () => {
   ];
 
   return (
-    <section id="gallery" className="py-20 bg-gray-100">
+    <section id="gallery" className="py-20 bg-blue-50">
       <div className="container mx-auto px-4">
         <h2 className="text-3xl font-bold text-center mb-8">Gallery</h2>
         <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
